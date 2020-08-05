@@ -1,7 +1,7 @@
 # i3-Config
 Config files for different distributions.
 
-## Arch Config Location:
+## Arch and Endeavor Config Location:
 ~/.config/i3/config
 
 ## Manjaro Config Location
