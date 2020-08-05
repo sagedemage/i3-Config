@@ -37,3 +37,13 @@ Config files for different distributions.
 7. redshift
 8. lxqt-powermanagement
 9. pavucontrol
+
+## Programs I installed for the Endeavor config:
+1. terminator
+2. rofi
+3. pcmanfm
+4. vivaldi
+5. flameshot
+6. redshift
+7. albert
+8. pavucontrol
