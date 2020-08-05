@@ -1,0 +1,7 @@
+# sound-section 
+
+#bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
+exec --no-startup-id pulseaudio
+#exec --no-startup-id pa-applet
+
+
