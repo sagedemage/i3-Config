@@ -1,7 +1,7 @@
 # i3-Config
 Config files for different distributions.
 
-## Arch Config locations
+## Arch Config Location:
 ~/.config/i3/config
 
 ## Programs I installed for the Arch config:
