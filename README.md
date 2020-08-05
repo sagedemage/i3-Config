@@ -4,6 +4,9 @@ Config files for different distributions.
 ## Arch Config Location:
 ~/.config/i3/config
 
+## Manjaro COnfig Location
+~/.i3/config
+
 ## Programs I installed for the Arch config:
 1. terminator 
 2. dmenu 
@@ -23,3 +26,14 @@ Config files for different distributions.
 16. xscreensaver
 17. pavucontrol
 18. pulseaudio
+
+## Programs I installed for the Manjaro config: 
+1. terminator 
+2. leafpad 
+3. rofi 
+4. vivaldi 
+5. flameshot 
+6. albert 
+7. redshift
+8. lxqt-powermanagement
+9. pavucontrol
