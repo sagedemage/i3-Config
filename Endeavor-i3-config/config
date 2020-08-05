@@ -78,6 +78,9 @@ bindsym $mod+b exec vivaldi-stable
 # pcmanfm
 bindsym $mod+e exec pcmanfm
 
+# ranger
+bindsym $mod+f exec terminator -e "ranger"
+
 # i3-scrot
 bindsym Print exec "scrot ~/%Y-%m-%d-%T-screenshot.png"
 
