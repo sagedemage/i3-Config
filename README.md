@@ -46,4 +46,5 @@ Config files for different distributions.
 5. flameshot
 6. redshift
 7. albert
-8. pavucontrol
+8. lxqt-powermanagement
+9. pavucontrol
