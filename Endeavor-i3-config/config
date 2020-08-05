@@ -304,6 +304,10 @@ bindsym $mod+F6 exec mocp --stop
 bindsym $mod+F7 exec mocp --previous
 bindsym $mod+F8 exec mocp --next
 
+# Screen brightness controls
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 10"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 10"
+
 # Redirect sound to headphones
 bindsym $mod+m exec "/usr/local/bin/switch-audio-port"
 
