@@ -1,11 +1,11 @@
 # set floating for apps needing it
-#for_window [class="Pavucontrol" instance="pavucontrol"] floating enable
+for_window [class="Pavucontrol" instance="pavucontrol"] floating enable
 ## welcome and others
-#for_window [class="Yad" instance="yad"] floating enable
-#for_window [class="Galculator" instance="galculator"] floating enable
-#for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
-#for_window [class="Leafpad" instance="leafpad"] floating enable
-#for_window [class="Leafpad"] resize set 900 700
+for_window [class="Yad" instance="yad"] floating enable
+for_window [class="Galculator" instance="galculator"] floating enable
+for_window [class="Blueberry.py" instance="blueberry.py"] floating enable
+for_window [class="Leafpad" instance="leafpad"] floating enable
+for_window [class="Leafpad"] resize set 900 700
 
 #set floating (nontiling) for special apps
 for_window [class="Xsane" instance="xsane"] floating enable
