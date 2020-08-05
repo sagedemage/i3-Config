@@ -1,0 +1,4 @@
+# Autostart apps
+##transparency 
+#exec --no-startup-id xcompmgr -c
+#exec --no-startup-id picom -cC
