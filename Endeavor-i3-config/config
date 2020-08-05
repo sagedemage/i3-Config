@@ -72,13 +72,13 @@ bindsym $mod+s exec flameshot gui
 # pavucontrol
 bindsym $mod+v exec pavucontrol
 
-#vivaldi
+# vivaldi
 bindsym $mod+b exec vivaldi-stable
 
-#pcmanfm
+# pcmanfm
 bindsym $mod+e exec pcmanfm
 
-#scrot
+# i3-scrot
 bindsym Print exec "scrot ~/%Y-%m-%d-%T-screenshot.png"
 
 # change focus
