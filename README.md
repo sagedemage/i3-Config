@@ -4,7 +4,7 @@ Config files for different distributions.
 ## Arch Config Location:
 ~/.config/i3/config
 
-## Manjaro COnfig Location
+## Manjaro Config Location
 ~/.i3/config
 
 ## Programs I installed for the Arch config:
