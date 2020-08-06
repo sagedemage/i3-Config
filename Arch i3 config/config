@@ -41,16 +41,19 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-## Start Applications
+# kill focused window
+bindsym $mod+q kill
 
-# terminal
-bindsym $mod+Return exec terminator
+# Fullscreen 
+bindsym $mod+Shift+f fullscreen toggle
 
 # open i3 config file
 bindsym $mod+c exec leafpad ~/.config/i3/config
 
-# kill focused window
-bindsym $mod+q kill
+## Start Application
+
+# terminal
+bindsym $mod+Return exec terminator
 
 # dmenu (a program launcher)
 bindsym $mod+d exec dmenu_run
@@ -91,7 +94,7 @@ exec nitrogen --restore &
 exec ckb-next -b
 
 # pulseaudio tray
-exec volumeicon
+#exec volumeicon
 
 # albert
 exec albert
