@@ -135,16 +135,16 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-#networkmanager-applet
+# networkmanager-applet
 exec --no-startup-id nm-applet
 
-#Nitrogen
+# nitrogen
 exec --no-startup-id nitrogen --restore
 
-#Albert
+# albert
 exec albert
 
-#Redshift
+# redshift
 exec redshift-gtk
 
 #set powersavings for display:
