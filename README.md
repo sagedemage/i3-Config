@@ -42,6 +42,10 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot r
 8. lxqt-powermanagement
 9. pavucontrol
 
+```
+sudo pacman -S terminator leafpad rofi flameshot albert redshift lxqt-powermanagement pavucontrol
+```
+
 ## Programs I installed for the Endeavor config:
 1. terminator
 2. rofi
@@ -52,3 +56,7 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot r
 7. albert
 8. lxqt-powermanagement
 9. pavucontrol
+
+```
+sudo pacman -S terminator rofi pacmanfm flameshot redshift albert lxqt-powermanagement pavucontrol
+```
