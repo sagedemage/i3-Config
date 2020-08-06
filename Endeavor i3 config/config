@@ -49,9 +49,6 @@ hide_edge_borders both
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-# start a terminal
-bindsym $mod+Return exec terminator
-
 # kill focused window
 bindsym $mod+q kill
 
@@ -69,6 +66,9 @@ bindsym $mod+Shift+f fullscreen toggle
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+# start a terminal
+bindsym $mod+Return exec terminator
 
 #flameshot
 bindsym $mod+s exec flameshot gui
