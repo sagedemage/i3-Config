@@ -27,6 +27,8 @@ Config files for different distributions.
 17. pavucontrol
 18. pulseaudio
 
+Command: sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio 
+
 ## Programs I installed for the Manjaro config: 
 1. terminator 
 2. leafpad 
