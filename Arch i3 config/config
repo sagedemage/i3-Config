@@ -44,7 +44,7 @@ floating_modifier $mod
 # kill focused window
 bindsym $mod+q kill
 
-# Fullscreen 
+# fullscreen 
 bindsym $mod+Shift+f fullscreen toggle
 
 # open i3 config file
