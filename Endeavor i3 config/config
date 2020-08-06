@@ -58,6 +58,9 @@ bindsym $mod+q kill
 # open keybindings overview
 bindsym $mod+c exec "leafpad ~/.config/i3/config"
 
+# fullscreen 
+bindsym $mod+Shift+f fullscreen toggle
+
 # start dmenu (a program launcher)
 # bindsym $mod+d exec dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
