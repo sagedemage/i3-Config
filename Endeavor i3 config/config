@@ -61,6 +61,8 @@ bindsym $mod+c exec "leafpad ~/.config/i3/config"
 # fullscreen 
 bindsym $mod+Shift+f fullscreen toggle
 
+## Start Application
+
 # start dmenu (a program launcher)
 # bindsym $mod+d exec dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -68,7 +70,6 @@ bindsym $mod+Shift+f fullscreen toggle
 # installed.
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
-## Start Applications
 #flameshot
 bindsym $mod+s exec flameshot gui
 
