@@ -67,10 +67,10 @@ bindsym $mod+Shift+f fullscreen toggle
 # installed.
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
-# start a terminal
+# terminal
 bindsym $mod+Return exec terminator
 
-#flameshot
+# flameshot
 bindsym $mod+s exec flameshot gui
 
 # pavucontrol
