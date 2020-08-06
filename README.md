@@ -1,4 +1,4 @@
-# i3-Config
+# About
 Config files for different distributions.
 
 ## Arch and Endeavor Config Location:
