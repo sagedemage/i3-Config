@@ -135,7 +135,7 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-## Autostart Appications
+## Autostart Applications
 
 # networkmanager-applet
 exec --no-startup-id nm-applet
