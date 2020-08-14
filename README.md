@@ -26,9 +26,10 @@ These are i3 config files for different distributions. I added programs that are
 16. xscreensaver
 17. pavucontrol
 18. pulseaudio
+19. unclutter
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio 
+sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
 ```
 
 ## Programs I installed for the Manjaro config: 
