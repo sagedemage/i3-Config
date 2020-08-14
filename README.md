@@ -14,22 +14,23 @@ These are i3 config files for different distributions. I added programs that are
 4. rofi
 5. i3scrot
 6. pcmanfm
-7. vivaldi/firefox
-8. flameshot
-9. redshift
-10. nitrogen
-11. albert
-12. network-manager-applet 
-13. udiskie 
-14. polkit-gnome/lxsession 
-15. ckb-next (comment it out if you don't use wired corsair mosue) 
-16. xscreensaver
-17. pavucontrol
-18. pulseaudio
-19. unclutter
+7. gvfs
+8. vivaldi/firefox
+9. flameshot
+10. redshift
+11. nitrogen
+12. albert
+13. network-manager-applet 
+14. udiskie 
+15. polkit-gnome/lxsession 
+16. ckb-next (comment it out if you don't use wired corsair mosue) 
+17. xscreensaver
+18. pavucontrol
+19. pulseaudio
+20. unclutter
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
+sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
 ```
 
 ## Programs I installed for the Manjaro config: 
