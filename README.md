@@ -57,7 +57,8 @@ sudo pacman -S terminator leafpad rofi flameshot albert redshift pavucontrol lxq
 7. albert
 8. pavucontrol
 9. lxqt-powermanagement (for laptop)
+10. unclutter
 
 ```
-sudo pacman -S terminator rofi pacmanfm flameshot redshift albert pavucontrol lxqt-powermanagement
+sudo pacman -S terminator rofi pacmanfm flameshot redshift albert pavucontrol lxqt-powermanagement unclutter
 ```
