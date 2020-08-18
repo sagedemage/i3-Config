@@ -214,12 +214,12 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
 # move to next or previous workspace
-bindsym $ctrl+mod1+h workspace prev
-bindsym $ctrl+mod1+l workspace next
+bindsym $mod+Ctrl+h workspace prev
+bindsym $mod+Ctrl+l workspace next
 
 # alternatively, you can use the cursor keys:
-bindsym $ctrl+mod1+Left workspace prev
-bindsym $ctrl+mod1+Right workspace next
+bindsym $mod+Ctrl+Left workspace prev
+bindsym $mod+Ctrl+Right workspace next
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
