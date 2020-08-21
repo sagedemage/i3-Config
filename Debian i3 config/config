@@ -105,11 +105,8 @@ exec nm-applet
 # udiskie
 exec udiskie
 
-# gnome polkit
-exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-
-# lxsession polkit
-#exec /usr/bin/lxpolkit
+# gnome policykit
+exec /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
 
 # xscreensaver
 exec xscreensaver -nosplash
