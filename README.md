@@ -44,7 +44,6 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flames
 10. firefox/vivaldi
 11. dmenu
 12. synapse
-13. 
 
 ```
 sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse
