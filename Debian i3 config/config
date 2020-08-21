@@ -85,7 +85,7 @@ bindsym Print exec --no-startup-id i3-scrot
 ## Autostart Applications
 
 # redshift
-exec redshift-gtk
+exec redshift
 
 # nitrogen
 exec nitrogen --restore &
