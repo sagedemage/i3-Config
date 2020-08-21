@@ -34,6 +34,21 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flames
 ```
 ## Program I installed for the Debian config
 1. network-manager-gnome
+2. rofi
+3. terminator
+4. mousepad
+5. udiskie
+6. nitrogen
+7. redshift
+9. flameshot
+10. firefox/vivaldi
+11. dmenu
+12. synapse
+13. 
+
+```
+sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse
+```
 
 ## Programs I installed for the Endeavor config:
 1. terminator
