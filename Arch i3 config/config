@@ -97,7 +97,7 @@ exec ckb-next -b
 #exec volumeicon
 
 # synapse
-exec synapse
+exec synapse -s
 
 # network manager applet
 exec nm-applet
