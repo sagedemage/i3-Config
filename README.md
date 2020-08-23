@@ -19,7 +19,7 @@ These are i3 config files for different distributions. I added programs that are
 9. flameshot
 10. redshift
 11. nitrogen
-12. albert
+12. synapse
 13. network-manager-applet 
 14. udiskie 
 15. polkit-gnome/lxsession 
@@ -30,7 +30,7 @@ These are i3 config files for different distributions. I added programs that are
 20. unclutter
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen albert network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
+sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
 ```
 ## Program I installed for the Debian config
 1. network-manager-gnome
@@ -45,9 +45,10 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flames
 11. dmenu
 12. synapse
 13. policykit-1-gnome
+14. synapse
 
 ```
-sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome
+sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse
 ```
 
 ## Programs I installed for the Endeavor config:
@@ -57,13 +58,13 @@ sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen
 4. vivaldi
 5. flameshot
 6. redshift
-7. albert
+7. synapse
 8. pavucontrol
 9. lxqt-powermanagement (for laptop)
 10. unclutter
 
 ```
-sudo pacman -S terminator rofi pacmanfm flameshot redshift albert pavucontrol lxqt-powermanagement unclutter
+sudo pacman -S terminator rofi pacmanfm flameshot redshift synapse pavucontrol lxqt-powermanagement unclutter
 ```
 
 ## Programs I installed for the Manjaro config: 
