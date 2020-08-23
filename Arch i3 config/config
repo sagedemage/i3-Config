@@ -96,8 +96,8 @@ exec ckb-next -b
 # pulseaudio tray
 #exec volumeicon
 
-# albert
-exec albert
+# synapse
+exec synapse
 
 # network manager applet
 exec nm-applet
