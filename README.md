@@ -22,7 +22,7 @@ These are i3 config files for different distributions. I added programs that are
 12. synapse
 13. network-manager-applet 
 14. udiskie 
-15. polkit-gnome/lxsession 
+15. polkit-gnome 
 16. ckb-next (comment it out if you don't use wired corsair mosue) 
 17. xscreensaver
 18. pavucontrol
