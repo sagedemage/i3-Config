@@ -143,8 +143,8 @@ exec --no-startup-id nm-applet
 # nitrogen
 exec --no-startup-id nitrogen --restore
 
-# albert
-exec albert
+# synapse
+exec synapse -s
 
 # redshift
 exec redshift-gtk
