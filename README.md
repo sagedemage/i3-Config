@@ -46,9 +46,10 @@ sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flames
 12. synapse
 13. policykit-1-gnome
 14. synapse
+15. lxqt-powermanagement (for laptop)
 
 ```
-sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse
+sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse lxqt-powermanagement
 ```
 
 ## Programs I installed for the Endeavor config:
