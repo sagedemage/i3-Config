@@ -4,9 +4,6 @@ These are i3 config files for different distributions. I added programs that are
 ## Arch, Debian and Endeavor Config Location:
 ~/.config/i3/config
 
-## Manjaro Config Location
-~/.i3/config
-
 ## Programs I installed for the Arch config:
 1. terminator 
 2. dmenu 
@@ -66,19 +63,4 @@ sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen
 
 ```
 sudo pacman -S terminator rofi pacmanfm flameshot redshift synapse pavucontrol lxqt-powermanagement unclutter
-```
-
-## Programs I installed for the Manjaro config: 
-1. terminator 
-2. leafpad 
-3. rofi 
-4. vivaldi 
-5. flameshot 
-6. albert 
-7. redshift
-8. pavucontrol
-9. lxqt-powermanagement (for laptop)
-
-```
-sudo pacman -S terminator leafpad rofi flameshot albert redshift pavucontrol lxqt-powermanagement
 ```
