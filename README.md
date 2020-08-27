@@ -31,7 +31,7 @@ So I have a test computer and I have some weird configuration for i3 where it di
 21. discord
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
+sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter discord
 ```
 ## Program I installed for the Debian Weird Computer config
 1. network-manager-gnome
