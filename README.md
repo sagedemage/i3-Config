@@ -28,6 +28,7 @@ So I have a test computer and I have some weird configuration for i3 where it di
 18. pavucontrol
 19. pulseaudio
 20. unclutter
+21. discord
 
 ```
 sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter
