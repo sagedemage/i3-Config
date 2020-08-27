@@ -274,10 +274,10 @@ bindsym $mod+Shift+q mode "$mode_system"
 
 bindsym $mod1+r mode "resize"
 
-# Configure workspaces for mutiple monitors
+# Configure workspaces for mutiple monitors (most likely want to remove this)
 workspace 1 output VGA-1
 
-# Turn off laptop monitor
+# Turn off laptop monitor (most likely want to remove this)
 exec xrandr --output LVDS-1 --off
 
 # Start i3bar to display a workspace bar (plus the system information i3status
