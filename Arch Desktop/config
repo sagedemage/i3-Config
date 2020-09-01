@@ -42,7 +42,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # kill focused window
-bindsym $mod+q kill
+bindsym $mod+shift+x kill
 
 # fullscreen 
 bindsym $mod+Shift+f fullscreen toggle
