@@ -1,9 +1,6 @@
 # About
 These are i3 config files for different distributions. I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. 
 
-## Debian Weird Computer
-So I have a test computer and I have some weird configuration for i3 where it disbales the laptop monitor and forces the external monitor to be set on the first workspace. My old computer has dead pixels so I accomodate that for external monitor. I uncomment the potentially problematic ones in the config. You can delete them from your config.
-
 ## Arch, Debian and Endeavor Config Location:
 ~/.config/i3/config
 
