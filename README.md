@@ -30,7 +30,7 @@ These are i3 config files for different distributions. I added programs that are
 ```
 sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter discord
 ```
-## Program I installed for the Debian Laptop config
+## Programs I installed for the Debian Laptop config:
 1. network-manager-gnome
 2. rofi
 3. terminator
