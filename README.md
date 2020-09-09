@@ -67,4 +67,5 @@ sudo pacman -S terminator rofi pacmanfm flameshot redshift synapse pavucontrol l
 ```
 ## Credit to the creators of the i3 window manager
 Official Website: https://i3wm.org
+
 Github Repository: https://github.com/i3/i3
