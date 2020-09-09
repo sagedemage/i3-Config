@@ -65,5 +65,5 @@ sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen
 ```
 sudo pacman -S terminator rofi pacmanfm flameshot redshift synapse pavucontrol lxqt-powermanagement unclutter
 ```
-## Link to the website of the creators of the i3 window manager
+## Credit to the creators of the i3 window manager
 https://i3wm.org
