@@ -45,7 +45,7 @@ floating_modifier $mod
 bindsym $mod+shift+x kill
 
 # fullscreen 
-bindsym $mod+Shift+f fullscreen toggle
+bindsym $mod+f fullscreen toggle
 
 # open i3 config file
 bindsym $mod+c exec leafpad ~/.config/i3/config
@@ -66,9 +66,6 @@ bindsym $mod1+Tab exec rofi -show window
 
 # pcmanfm
 bindsym $mod+e exec pcmanfm
-
-# ranger
-bindsym $mod+f exec terminator -e "ranger"
 
 # vivaldi
 bindsym $mod+b exec vivaldi-stable
