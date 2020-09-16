@@ -220,6 +220,9 @@ bindsym $mod+Ctrl+l workspace next
 bindsym $mod+Ctrl+Left workspace prev
 bindsym $mod+Ctrl+Right workspace next
 
+# Set workspace layout
+workspace_layout tabbed
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
