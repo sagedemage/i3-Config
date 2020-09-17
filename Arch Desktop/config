@@ -48,7 +48,7 @@ bindsym $mod+shift+x kill
 bindsym $mod+f fullscreen toggle
 
 # open i3 config file
-bindsym $mod+c exec leafpad ~/.config/i3/config
+bindsym $mod+i exec leafpad ~/.config/i3/config
 
 ## Start Application
 
@@ -75,6 +75,9 @@ bindsym $mod+s exec flameshot gui
 
 # pavucontrol
 bindsym $mod+v exec pavucontrol
+
+# calender
+bindsym $mod+c exec gsimplecal
 
 # screenshot
 bindsym Print exec --no-startup-id i3-scrot
