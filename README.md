@@ -25,10 +25,11 @@ These are i3 config files for different distributions. I added programs that are
 18. pavucontrol
 19. pulseaudio
 20. unclutter
-21. discord
+21. gsimplecal
+22. discord
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter discord
+sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter gsimplecal discord
 ```
 ## Programs I installed for the Debian Laptop config:
 1. network-manager-gnome
