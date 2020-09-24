@@ -120,6 +120,11 @@ exec discord --start-minimized
 # unclutter
 exec unclutter &
 
+## Rules
+
+# enable floating mode for all virtualbox windows
+for_window [class="VirtualBox"] floating enable
+
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
