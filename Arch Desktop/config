@@ -78,7 +78,8 @@ bindsym $mod1+Tab exec rofi -show window
 # pcmanfm
 bindsym $mod+e exec pcmanfm
 # web browser
-bindsym $mod+b exec firefox
+bindsym $mod+b exec chromium
+#bindsym $mod+b exec firefox
 # flameshot
 bindsym $mod+s exec flameshot gui
 # pavucontrol
