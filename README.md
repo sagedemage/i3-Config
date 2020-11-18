@@ -19,7 +19,7 @@ These are i3 config files for different distributions. I added programs that are
 12. network-manager-applet 
 13. udiskie 
 14. polkit-gnome 
-15. ckb-next (comment it out if you don't use wired corsair mosue) 
+15. ckb-next (comment it out if you don't use wired corsair mouse) 
 16. pavucontrol
 17. pulseaudio
 18. unclutter
