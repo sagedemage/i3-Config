@@ -100,8 +100,6 @@ exec nitrogen --restore &
 exec ckb-next -b
 # pulseaudio tray
 #exec volumeicon
-# synapse
-exec synapse -s
 # network manager applet
 exec nm-applet
 # udiskie
@@ -110,8 +108,6 @@ exec udiskie
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 # lxsession polkit
 #exec /usr/bin/lxpolkit
-# xscreensaver
-exec xscreensaver -nosplash
 # discord 
 exec discord --start-minimized
 # unclutter
