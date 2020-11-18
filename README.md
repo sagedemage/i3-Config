@@ -1,7 +1,7 @@
 # About
 These are i3 config files for different distributions. I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. 
 
-## Arch, Debian and Endeavor Config Location:
+## Arch and Debian Location:
 ~/.config/i3/config
 
 ## Arch Linux Desktop Programs:
