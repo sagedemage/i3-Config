@@ -90,14 +90,8 @@ exec redshift
 # nitrogen
 exec nitrogen --restore &
 
-# corsair driver program
-exec ckb-next -b
-
 # pulseaudio tray
 #exec volumeicon
-
-# synapse
-exec synapse -s
 
 # network manager applet
 exec nm-applet
@@ -107,9 +101,6 @@ exec udiskie
 
 # gnome policykit
 exec /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
-
-# xscreensaver
-exec xscreensaver -nosplash
 
 # discord 
 exec discord --start-minimized
