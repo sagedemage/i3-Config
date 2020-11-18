@@ -32,7 +32,7 @@ sudo pacman -S lxterminal dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flame
 ## Debian Programs:
 1. network-manager-gnome
 2. rofi
-3. terminator
+3. lxterminal
 4. mousepad
 5. udiskie
 6. nitrogen
@@ -44,7 +44,7 @@ sudo pacman -S lxterminal dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flame
 13. lxqt-powermanagement (for laptop)
 
 ```
-sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot chromium dmenu policykit-1-gnome lxqt-powermanagement
+sudo apt install network-manager-gnome rofi lxterminal mousepad udiskie nitrogen redshift flameshot chromium dmenu policykit-1-gnome lxqt-powermanagement
 ```
 
 ## Credit to the creators of the i3 window manager
