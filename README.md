@@ -4,7 +4,7 @@ These are i3 config files for different distributions. I added programs that are
 ## Arch and Debian Location:
 ~/.config/i3/config
 
-## Arch Linux Desktop Programs:
+## Arch Linux Programs:
 1. lxterminal 
 2. dmenu 
 3. leafpad 
@@ -29,7 +29,7 @@ These are i3 config files for different distributions. I added programs that are
 ```
 sudo pacman -S lxterminal dmenu leafpad rofi i3scrot pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter gsimplecal discord
 ```
-## Debian Laptop Programs:
+## Debian Programs:
 1. network-manager-gnome
 2. rofi
 3. terminator
