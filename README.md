@@ -49,21 +49,6 @@ sudo pacman -S lxterminal dmenu leafpad rofi i3scrot pcmanfm gvfs chromium flame
 sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse lxqt-powermanagement
 ```
 
-## Endeavor Laptop Programs:
-1. terminator
-2. rofi
-3. pcmanfm
-4. vivaldi
-5. flameshot
-6. redshift
-7. synapse
-8. pavucontrol
-9. lxqt-powermanagement (for laptop)
-10. unclutter
-
-```
-sudo pacman -S terminator rofi pacmanfm flameshot redshift synapse pavucontrol lxqt-powermanagement unclutter
-```
 ## Credit to the creators of the i3 window manager
 Official Website: https://i3wm.org
 
