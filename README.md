@@ -5,31 +5,29 @@ These are i3 config files for different distributions. I added programs that are
 ~/.config/i3/config
 
 ## Programs I installed for the Arch Desktop config:
-1. terminator 
+1. lxterminal 
 2. dmenu 
 3. leafpad 
 4. rofi
 5. i3scrot
 6. pcmanfm
 7. gvfs
-8. vivaldi/firefox
+8. chromium/firefox
 9. flameshot
 10. redshift
 11. nitrogen
-12. synapse
-13. network-manager-applet 
-14. udiskie 
-15. polkit-gnome 
-16. ckb-next (comment it out if you don't use wired corsair mosue) 
-17. xscreensaver
-18. pavucontrol
-19. pulseaudio
-20. unclutter
-21. gsimplecal
-22. discord
+12. network-manager-applet 
+13. udiskie 
+14. polkit-gnome 
+15. ckb-next (comment it out if you don't use wired corsair mosue) 
+16. pavucontrol
+17. pulseaudio
+18. unclutter
+19. gsimplecal
+20. discord
 
 ```
-sudo pacman -S terminator dmenu leafpad rofi i3scrot pcmanfm gvfs firefox flameshot redshift nitrogen synapse network-manager-applet udiskie polkit-gnome xscreensaver pavucontrol pulseaudio unclutter gsimplecal discord
+sudo pacman -S lxterminal dmenu leafpad rofi i3scrot pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter gsimplecal discord
 ```
 ## Programs I installed for the Debian Laptop config:
 1. network-manager-gnome
