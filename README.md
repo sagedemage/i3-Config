@@ -4,7 +4,7 @@ These are i3 config files for different distributions. I added programs that are
 ## Arch, Debian and Endeavor Config Location:
 ~/.config/i3/config
 
-## Programs I installed for the Arch Desktop config:
+## Arch Linux Desktop Programs:
 1. lxterminal 
 2. dmenu 
 3. leafpad 
@@ -29,7 +29,7 @@ These are i3 config files for different distributions. I added programs that are
 ```
 sudo pacman -S lxterminal dmenu leafpad rofi i3scrot pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter gsimplecal discord
 ```
-## Programs I installed for the Debian Laptop config:
+## Debian Laptop Programs:
 1. network-manager-gnome
 2. rofi
 3. terminator
@@ -49,7 +49,7 @@ sudo pacman -S lxterminal dmenu leafpad rofi i3scrot pcmanfm gvfs chromium flame
 sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse lxqt-powermanagement
 ```
 
-## Programs I installed for the Endeavor Laptop config:
+## Endeavor Laptop Programs:
 1. terminator
 2. rofi
 3. pcmanfm
