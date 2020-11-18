@@ -38,15 +38,13 @@ sudo pacman -S lxterminal dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flame
 6. nitrogen
 7. redshift
 9. flameshot
-10. firefox/vivaldi
+10. chromium/firefox
 11. dmenu
-12. synapse
-13. policykit-1-gnome
-14. synapse
-15. lxqt-powermanagement (for laptop)
+12. policykit-1-gnome
+13. lxqt-powermanagement (for laptop)
 
 ```
-sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot firefox dmenu synapse policykit-1-gnome synapse lxqt-powermanagement
+sudo apt install network-manager-gnome rofi terminator mousepad udiskie nitrogen redshift flameshot chromium dmenu policykit-1-gnome lxqt-powermanagement
 ```
 
 ## Credit to the creators of the i3 window manager
