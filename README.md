@@ -4,6 +4,9 @@ These are i3 config files for different distributions. I added programs that are
 ## Arch and Debian i3 config Location:
 ~/.config/i3/config
 
+## i3 Status Config Location:
+/etc/i3status.conf
+
 ## Arch Linux Programs:
 1. lxterminal 
 2. dmenu
