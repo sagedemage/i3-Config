@@ -85,7 +85,7 @@ bindsym $mod+s exec flameshot gui
 # pavucontrol
 bindsym $mod+v exec pavucontrol
 # calender
-bindsym $mod+c exec gsimplecal
+bindsym $mod+c exec zenity --calendar
 # screenshot
 bindsym Print exec --no-startup-id i3-scrot
 #______________________________________________
@@ -100,6 +100,8 @@ exec nitrogen --restore &
 exec ckb-next -b
 # pulseaudio tray
 #exec volumeicon
+# volumeicon
+exec volumeicon
 # network manager applet
 exec nm-applet
 # udiskie
@@ -112,8 +114,6 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec discord --start-minimized
 # unclutter
 exec unclutter &
-# volumeicon
-exec volumeicon
 #_______________________________________________________________
 
 ## Rules
