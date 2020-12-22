@@ -71,8 +71,9 @@ bindsym $mod+i exec leafpad ~/.config/i3/config
 bindsym $mod+Return exec lxterminal
 # dmenu (a program launcher)
 bindsym $mod+d exec dmenu_run
-# rofi run
-bindsym $mod+r exec rofi -show run
+# rofi run prompt
+bindsym $mod+r exec rofi -combi-modi drun -show combi -show-icons
+#bindsym $mod+r exec rofi -show run
 # rofi window
 bindsym $mod1+Tab exec rofi -show window	
 # pcmanfm
