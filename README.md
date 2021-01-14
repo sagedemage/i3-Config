@@ -8,7 +8,7 @@ These are i3 config files for different distributions. I added programs that are
 /etc/i3status.conf
 
 ## Arch Linux Programs:
-1. lxterminal 
+1. alacritty/lxterminal 
 2. dmenu
 3. rofi
 4. leafpad 
@@ -30,7 +30,7 @@ These are i3 config files for different distributions. I added programs that are
 20. discord
 
 ```
-sudo pacman -S lxterminal dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter gsimplecal discord
+sudo pacman -S alacritty dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter gsimplecal discord
 ```
 ## Debian Programs:
 1. network-manager-gnome
