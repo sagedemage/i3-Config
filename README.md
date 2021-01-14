@@ -35,7 +35,7 @@ sudo pacman -S alacritty dmenu rofi leafpad i3scrot pcmanfm gvfs chromium flames
 ## Debian Programs:
 1. network-manager-gnome
 2. rofi
-3. lxterminal
+3. lxterminal/st
 4. mousepad
 5. udiskie
 6. nitrogen
