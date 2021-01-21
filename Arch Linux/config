@@ -111,6 +111,8 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec discord --start-minimized
 # unclutter
 exec unclutter &
+# lxqt-powermanagement
+#exec lxqt-powermanagement
 #_______________________________________________________________
 
 ## Rules
