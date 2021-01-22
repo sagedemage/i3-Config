@@ -317,13 +317,16 @@ bar {
         status_command i3status
 	#status_command i3blocks
 	position bottom
-	font pango:Sans Regular 25
+	font pango:Sans Regular 16
 }
 #_____________________________________________________________________________
 
 # Screen brightness controls
-# bindsym XF86MonBrightnessUp exec "xbacklight -inc 10"
-# bindsym XF86MonBrightnessDown exec "xbacklight -dec 10"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 10"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 10"
+
+# Screen Resolution
+exec xrandr --output eDP1 --scale 0.8x0.8
 
 #Polybar 
 #exec_always --no-startup-id $HOME/.config/polybar/launch.sh
