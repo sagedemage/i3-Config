@@ -326,7 +326,7 @@ bindsym XF86MonBrightnessUp exec "xbacklight -inc 10"
 bindsym XF86MonBrightnessDown exec "xbacklight -dec 10"
 
 # Screen Resolution
-exec xrandr --output eDP1 --scale 0.8x0.8
+exec xrandr --output eDP1 --scale 0.9x0.9
 
 #Polybar 
 #exec_always --no-startup-id $HOME/.config/polybar/launch.sh
