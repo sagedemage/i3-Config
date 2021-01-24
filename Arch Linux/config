@@ -111,8 +111,8 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec discord --start-minimized
 # unclutter
 exec unclutter &
-# lxqt-powermanagement
-#exec lxqt-powermanagement
+# Default Resolution
+exec xrandr --output DVI-D-0 --mode 1600x900
 #_______________________________________________________________
 
 ## Rules
