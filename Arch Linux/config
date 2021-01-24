@@ -112,7 +112,7 @@ exec discord --start-minimized
 # unclutter
 exec unclutter &
 # Default Resolution
-exec xrandr --output DVI-D-0 --mode 1600x900
+#exec xrandr --output DVI-D-0 --mode 1600x900
 #_______________________________________________________________
 
 ## Rules
