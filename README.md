@@ -12,7 +12,6 @@ These are i3 config files for different distributions. I added programs that are
 2. dmenu
 3. rofi
 4. leafpad 
-5. i3scrot
 6. pcmanfm
 7. gvfs
 8. chromium/firefox
@@ -22,7 +21,6 @@ These are i3 config files for different distributions. I added programs that are
 12. network-manager-applet 
 13. udiskie 
 14. polkit-gnome 
-15. ckb-next (comment it out if you don't use wired corsair mouse) 
 16. pavucontrol
 17. pulseaudio
 18. unclutter
