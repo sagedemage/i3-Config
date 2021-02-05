@@ -95,8 +95,10 @@ bindsym Print exec --no-startup-id i3-scrot
 ## Autostart Applications
 # redshift
 exec redshift
+# feh
+exec ~/.fehbg &
 # nitrogen
-exec nitrogen --restore &
+#exec nitrogen --restore &
 # volumeicon
 exec volumeicon
 # network manager applet
