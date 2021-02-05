@@ -17,7 +17,7 @@ These are i3 config files for different distributions. I added programs that are
 8. chromium/firefox
 9. flameshot
 10. redshift
-11. nitrogen
+11. feh
 12. network-manager-applet 
 13. udiskie 
 14. polkit-gnome 
