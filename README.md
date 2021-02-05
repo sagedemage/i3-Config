@@ -24,7 +24,7 @@ These are i3 config files for different distributions. I added programs that are
 16. pavucontrol
 17. pulseaudio
 18. unclutter
-19. gsimplecal
+19. zenity
 20. discord
 
 ```
