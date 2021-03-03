@@ -7,7 +7,7 @@ I added programs that are not included in the distribution. It will be required 
 ## i3 status config Location:
 ~/.config/i3status/config
 
-## Remember to copy default i3status configuration to ~/.config/i3status
+### Remember to copy default i3status configuration to ~/.config/i3status
 ```
 cp /etc/i3status.conf ~/.config/i3status/config
 ```
