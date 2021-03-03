@@ -7,7 +7,7 @@ These are i3 config files for different distributions. I added programs that are
 ## i3 Status Config Location:
 /etc/i3status.conf
 
-## Arch Linux Programs:
+## Programs:
 1. alacritty/lxterminal 
 2. dmenu
 3. rofi
@@ -26,27 +26,6 @@ These are i3 config files for different distributions. I added programs that are
 18. unclutter
 19. zenity
 20. discord
-
-```
-sudo pacman -S alacritty dmenu rofi leafpad pcmanfm gvfs chromium flameshot redshift nitrogen network-manager-applet udiskie polkit-gnome pavucontrol pulseaudio unclutter zenity discord
-```
-## Debian Programs:
-1. network-manager-gnome
-2. rofi
-3. lxterminal/st
-4. mousepad
-5. udiskie
-6. nitrogen
-7. redshift
-9. flameshot
-10. chromium/firefox
-11. dmenu
-12. policykit-1-gnome
-13. lxqt-powermanagement (for laptop)
-
-```
-sudo apt install network-manager-gnome rofi lxterminal mousepad udiskie nitrogen redshift flameshot chromium dmenu policykit-1-gnome lxqt-powermanagement
-```
 
 ## Credit to the creators of the i3 window manager
 Official Website: https://i3wm.org
