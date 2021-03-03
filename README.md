@@ -25,7 +25,7 @@ cp /etc/i3status.conf ~/.config/i3status/config
 8. chromium/firefox
 9. flameshot
 10. redshift
-11. feh/nitrogen
+11. feh/nitrogen (Recommendation: Use nitrogen if new to the i3 window manager)
 12. network-manager-applet 
 13. udiskie 
 14. polkit-gnome 
