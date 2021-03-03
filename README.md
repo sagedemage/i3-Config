@@ -4,10 +4,10 @@ I added programs that are not included in the distribution. It will be required 
 ## Screenshot
 ![](i3wm.png)
 
-## i3 config Location:
+## i3wm config Location:
 ~/.config/i3/config
 
-## i3 status config Location:
+## i3status config Location:
 ~/.config/i3status/config
 
 ### Remember to copy default i3status configuration to ~/.config/i3status
