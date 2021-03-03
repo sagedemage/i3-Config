@@ -5,7 +5,7 @@ I added programs that are not included in the distribution. It will be required 
 ~/.config/i3/config
 
 ## i3 Status config Location:
-/etc/i3status.conf
+~/.config/i3status/config
 
 ## Programs:
 1. alacritty/lxterminal 
