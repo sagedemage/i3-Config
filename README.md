@@ -1,5 +1,5 @@
 # About
-I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. I added the program I use that are not required for system to be usable. 
+Here is the configuration to i3 window manager. I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. I added the program I use that are not required for system to be usable. 
 
 ## Screenshot
 ![](i3wm.png)
