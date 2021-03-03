@@ -23,13 +23,6 @@ font pango: DejaVuSansMono, Bold 11
 ##default font setting
 #font pango:monospace 10
 
-##Linux Fonts
-#FreeMono
-#FreeSerif
-#FreeSans
-#DejaVuSans
-#DejaVuSansMono
-
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 6
@@ -113,8 +106,6 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec discord --start-minimized
 # unclutter
 exec unclutter &
-# Default Resolution
-#exec xrandr --output DVI-D-0 --mode 1600x900
 #_______________________________________________________________
 
 ## Rules
