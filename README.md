@@ -27,7 +27,7 @@ cp /etc/i3status.conf ~/.config/i3status/config
 10. redshift
 11. feh/nitrogen (Recommendation: Use nitrogen if new to the i3 window manager)
 12. network-manager-applet 
-13. udiskie 
+13. udiskie (usb automounting utility)
 14. polkit-gnome 
 16. pavucontrol
 17. pulseaudio
