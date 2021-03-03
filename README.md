@@ -16,6 +16,7 @@ cp /etc/i3status.conf ~/.config/i3status/config
 ```
 
 ## Programs:
+### Install these programs from your linux distribution package manager.
 1. alacritty/lxterminal 
 2. dmenu
 3. rofi
