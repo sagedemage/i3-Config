@@ -1,5 +1,5 @@
 # About
-These are i3 config files for different distributions. I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. I added the program I use that are not required for system to be usable. 
+I added programs that are not included in the distribution. It will be required to install majority of the programs to fully utilize my config out of the box. You can use it as a base to customize it yourself to get familiar with i3. I added the program I use that are not required for system to be usable. 
 
 ## i3 config Location:
 ~/.config/i3/config
