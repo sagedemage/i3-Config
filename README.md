@@ -21,6 +21,7 @@ cp /etc/i3status.conf ~/.config/i3status/config
 2. dmenu
 3. rofi
 4. leafpad 
+5. neovim/vim or nano
 6. pcmanfm
 7. gvfs
 8. chromium/firefox
