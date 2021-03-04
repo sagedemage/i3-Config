@@ -57,6 +57,7 @@ bindsym $mod+f fullscreen toggle
 
 # open i3 config file
 bindsym $mod+i exec alacritty -e nvim ~/.config/i3/config
+#bindsym $mod+i exec alacritty -e nano ~/.config/i3/config
 
 #-----------------------------------------------
 ## Start Application
